@@ -1,0 +1,325 @@
+{
+  "Data": [
+    {
+      "DeviceID": "789egI0021",
+      "Status": 0,
+      "LicensePlate": "MXT-9834",
+      "VIN": "9812AKSDJN145",
+      "Make": "PETERBILT",
+      "Model": "987",
+      "Year": 2016,
+      "Manufacturer": "BMW",
+      "HasMDT": true,
+      "IsCrashDetected": true,
+      "IsSatellite": true,
+      "LastUpdatedTimeStamp": "2018-12-21T06:22:02.352Z",
+      "IsVisible": true,
+      "AlternateDDSConfigured": true,
+      "IsDeleted": true,
+      "Position": {
+        "Latitude": 44.140891,
+        "Longitude": -88.295156,
+        "Address": "7294 Marlborough Ave.Grand Forks, ND 58201",
+        "Street": "Marlborough Ave",
+        "City": "Grand Forks",
+        "Province": "",
+        "Country": "ND",
+        "Speed": "96",
+        "SpeedLimit": "100",
+        "SpeedLimitMI": "",
+        "Direction": 0,
+        "TimeStamp": "2018-12-21T06:22:02.352Z"
+      },
+      "Branch": {
+        "ID": "87",
+        "Description": ""
+      },
+      "HomeBase": {
+        "ID": "97",
+        "Description": ""
+      },
+      "AssetType": {
+        "MapImage": "",
+        "ID": "",
+        "Description": ""
+      },
+      "WorkSchedule": {
+        "ID": "",
+        "Description": ""
+      },
+      "Resource": {
+        "ID": "923",
+        "Description": ""
+      },
+      "Advanced": {
+        "AltDDS": {
+          "Conditions": {
+            "AltDDS1Speed": 0,
+            "IsAltDDS1SpeedIncluded": true,
+            "IsAltDDS1Input2Included": true,
+            "IsAltDDS1Input3Included": true,
+            "AltDDS1Input2UnitID": "102",
+            "AltDDS1Input3UnitID": "103"
+          },
+          "Settings": {
+            "AltDDS1Time": 0,
+            "AltDDS1TimeUnit": 0
+          }
+        },
+        "Satellite": {
+          "SFOEnabled": true,
+          "TransmitTime": 0,
+          "TransmitTimeUnit": 0,
+          "IsTransmitIgnitionOnOffEnabled": true,
+          "IsTransmitInputStateChangesEnabled": true,
+          "IsTransmitAlarmsEnabled": true
+        }
+      },
+      "Sensors": [
+        {
+          "SensorName": "",
+          "IsValid": true,
+          "Type": {
+            "ID": 0,
+            "Description": ""
+          },
+          "Value": 0,
+          "ValueDescription": "",
+          "ID": "",
+          "Description": ""
+        }
+      ],
+      "CustomFields": [
+        {
+          "CustomFieldID": 0,
+          "Value": "",
+          "Definition": {
+            "ID": 0,
+            "FieldLabel": "",
+            "FieldDataType": 0,
+            "DefaultValue": ""
+          }
+        }
+      ],
+      "ID": "789egI0021",
+      "Description": ""
+    },
+    {
+      "DeviceID": "834egI0022",
+      "Status": 0,
+      "LicensePlate": "MXY-8734",
+      "VIN": "9813ALSDJN146",
+      "Make": "PETERBILT",
+      "Model": "954",
+      "Year": 2017,
+      "Manufacturer": "BMW",
+      "HasMDT": true,
+      "IsCrashDetected": true,
+      "IsSatellite": true,
+      "LastUpdatedTimeStamp": "2018-12-21T06:20:02.352Z",
+      "IsVisible": true,
+      "AlternateDDSConfigured": true,
+      "IsDeleted": true,
+      "Position": {
+        "Latitude": 44.150891,
+        "Longitude": -88.296156,
+        "Address": "505 Surrey Ave.Flushing, NY 11354",
+        "Street": "Surrey Ave",
+        "City": "Flushing",
+        "Province": "",
+        "Country": "NY",
+        "Speed": "96",
+        "SpeedLimit": "100",
+        "SpeedLimitMI": "",
+        "Direction": 0,
+        "TimeStamp": "2018-12-21T06:22:02.352Z"
+      },
+      "Branch": {
+        "ID": "87",
+        "Description": ""
+      },
+      "HomeBase": {
+        "ID": "97",
+        "Description": ""
+      },
+      "AssetType": {
+        "MapImage": "",
+        "ID": "",
+        "Description": ""
+      },
+      "WorkSchedule": {
+        "ID": "",
+        "Description": ""
+      },
+      "Resource": {
+        "ID": "924",
+        "Description": ""
+      },
+      "Advanced": {
+        "AltDDS": {
+          "Conditions": {
+            "AltDDS1Speed": 0,
+            "IsAltDDS1SpeedIncluded": true,
+            "IsAltDDS1Input2Included": true,
+            "IsAltDDS1Input3Included": true,
+            "AltDDS1Input2UnitID": "102",
+            "AltDDS1Input3UnitID": "103"
+          },
+          "Settings": {
+            "AltDDS1Time": 0,
+            "AltDDS1TimeUnit": 0
+          }
+        },
+        "Satellite": {
+          "SFOEnabled": true,
+          "TransmitTime": 0,
+          "TransmitTimeUnit": 0,
+          "IsTransmitIgnitionOnOffEnabled": true,
+          "IsTransmitInputStateChangesEnabled": true,
+          "IsTransmitAlarmsEnabled": true
+        }
+      },
+      "Sensors": [
+        {
+          "SensorName": "",
+          "IsValid": true,
+          "Type": {
+            "ID": 0,
+            "Description": ""
+          },
+          "Value": 0,
+          "ValueDescription": "",
+          "ID": "",
+          "Description": ""
+        }
+      ],
+      "CustomFields": [
+        {
+          "CustomFieldID": 0,
+          "Value": "",
+          "Definition": {
+            "ID": 0,
+            "FieldLabel": "",
+            "FieldDataType": 0,
+            "DefaultValue": ""
+          }
+        }
+      ],
+      "ID": "834egI0022",
+      "Description": ""
+    },
+    {
+      "DeviceID": "456egI0078",
+      "Status": 0,
+      "LicensePlate": "LIK-9898",
+      "VIN": "7813AKSIJN146",
+      "Make": "PETERBILT",
+      "Model": "987",
+      "Year": 2016,
+      "Manufacturer": "BMW",
+      "HasMDT": true,
+      "IsCrashDetected": true,
+      "IsSatellite": true,
+      "LastUpdatedTimeStamp": "2018-12-21T06:19:02.352Z",
+      "IsVisible": true,
+      "AlternateDDSConfigured": true,
+      "IsDeleted": false,
+      "Position": {
+        "Latitude": 45.180891,
+        "Longitude": -89.305156,
+        "Address": "7319 E. Valley St.Fair Lawn, NJ 07410",
+        "Street": "Valley St",
+        "City": "Fair Lawn",
+        "Province": "",
+        "Country": "NJ",
+        "Speed": "92",
+        "SpeedLimit": "100",
+        "SpeedLimitMI": "",
+        "Direction": 0,
+        "TimeStamp": "2018-12-21T06:19:02.352Z"
+      },
+      "Branch": {
+        "ID": "87",
+        "Description": ""
+      },
+      "HomeBase": {
+        "ID": "97",
+        "Description": ""
+      },
+      "AssetType": {
+        "MapImage": "",
+        "ID": "",
+        "Description": ""
+      },
+      "WorkSchedule": {
+        "ID": "",
+        "Description": ""
+      },
+      "Resource": {
+        "ID": "923",
+        "Description": ""
+      },
+      "Advanced": {
+        "AltDDS": {
+          "Conditions": {
+            "AltDDS1Speed": 0,
+            "IsAltDDS1SpeedIncluded": true,
+            "IsAltDDS1Input2Included": true,
+            "IsAltDDS1Input3Included": true,
+            "AltDDS1Input2UnitID": "102",
+            "AltDDS1Input3UnitID": "103"
+          },
+          "Settings": {
+            "AltDDS1Time": 0,
+            "AltDDS1TimeUnit": 0
+          }
+        },
+        "Satellite": {
+          "SFOEnabled": true,
+          "TransmitTime": 0,
+          "TransmitTimeUnit": 0,
+          "IsTransmitIgnitionOnOffEnabled": true,
+          "IsTransmitInputStateChangesEnabled": true,
+          "IsTransmitAlarmsEnabled": true
+        }
+      },
+      "Sensors": [
+        {
+          "SensorName": "",
+          "IsValid": true,
+          "Type": {
+            "ID": 0,
+            "Description": ""
+          },
+          "Value": 0,
+          "ValueDescription": "",
+          "ID": "",
+          "Description": ""
+        }
+      ],
+      "CustomFields": [
+        {
+          "CustomFieldID": 0,
+          "Value": "",
+          "Definition": {
+            "ID": 0,
+            "FieldLabel": "",
+            "FieldDataType": 0,
+            "DefaultValue": ""
+          }
+        }
+      ],
+      "ID": "456egI0078",
+      "Description": ""
+    }
+  ],
+  "StatusCode": 100,
+  "Errors": [
+    {
+      "Message": "",
+      "StackTrace": "",
+      "ExceptionName": "",
+      "Severity": 0
+    }
+  ]
+}
